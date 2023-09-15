@@ -1,0 +1,9 @@
+﻿"Socket Depth"	= 1.5in'Depth of Sockets in part
+"Roof Angle"	= 15deg'Angle of spoke to roof
+"Spoke Diameter"= .385in'Diameter of spoke
+"Part Thickness"= .125in'Thickness of injection-molded walls
+"Spoke Length"	= 8in'Length of spokes
+"Spoke Length2"	= 12in'length of spokes
+"Center Spoke"	= 16in' lenth of center spoke
+"Spout diameter"= 1.25in' Diameter of opening for bugs to enter
+"Trap Depth"	= 2in	'Depth of Trough around trap openings
